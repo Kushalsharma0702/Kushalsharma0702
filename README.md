@@ -1,124 +1,118 @@
-# 👨‍💻 Kushal Sharma
+# 🚀 **Kushal Sharma – AI, Cybersecurity & Beyond!**  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyZWU5Mm42ZjJiYW84cGdkNGZlN2VmM3U3dmwxeDY1cXVtNjBlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif" width="400px">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kushalsharma0702&color=blue)
 
-### Hey there! 👋 I'm Kushal Sharma
 
-I'm a passionate web developer and cybersecurity enthusiast with a strong desire to learn, explore, and create. 🚀 I'm always working on improving my skills and contributing to the tech community through my open-source projects. Let's dive in!
+![GitHub Views](https://komarev.com/ghpvc/?username=Kushalsharma0702&style=flat-square&color=blue)  [![Website](https://img.shields.io/badge/🌍-Portfolio-00A98F?style=flat-square)](https://devkushal.netlify.app/)  [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushalsharma0702)  [![Email](https://img.shields.io/badge/📧-Email-ff5722?style=flat-square)](mailto:aurocodeinfo@gmail.com)
+
+---
+## 🌟 **Who Am I?**  
+
+🎯 **AI & ML  | Cybersecurity (Pentesting) Enthusiast | Web Developer**  
+
+- 🤖 **AI Chatbot Expert** – Built AI chatbots like **GDGChitti**, medical bots & customer support bots.  
+- 🔥 **Cybersecurity Defender** – Developed a **Web Application Firewall (WAF)** to shield web apps from attacks.  
+- 🌐 **Full-Stack Web Developer (In progress)** – Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind, React**, and **API integrations**.
+- 🚀 **GDG on Campus Organizer** – **Lead** of **IILM University Greater Noida Chapter** for **Google Developer Groups (GDG)**.  
+- 🏆 **Hackathon Champion** – **2nd Place** at **NIET Hackathon** for building **Climatecheck360** _(AI + IoT Weather Detection)_.  
+- 🎓 **Google Cybersecurity Certified** – Experienced in **ethical hacking, pentesting, and security assessments**.  
+
 
 ---
 
-## 📊 GitHub Stats
+🚀 **Check out my Portfolio →** [🔗 Click Here](https://devkushal.netlify.app/)  
 
-<div align="center">
+---
+
+## 🚀 **Featured Projects**  
+
+### 🛡 **WAF - Web Application Firewall**  
+🛠 A security tool to **protect web apps** from SQL Injection, XSS, and other threats.  
+
+🔹 **Features:**  
+✅ Rule-Based Filtering & Logging  
+✅ Real-time Attack Prevention  
+✅ Admin Dashboard for Rule Management  
+
+🔹 **Tech Stack:**  
+**Python** (Flask, SQLAlchemy) | **SQLite** | **HTML/CSS**  
+
+🔗 **Repo:** [📂 WAF GitHub](https://github.com/Kushalsharma0702/WAF)  
+
+---
+
+### 🚗 **Taxify - AI-Powered Tax Saving**  
+💼 **Frontend Complete!** Backend is in progress. AI-powered tax platform for CAs & businesses.  
+
+🔗 **Repo:** [📂 Taxify GitHub](https://github.com/Kushalsharma0702/Taxify)  
+
+---
+## My Hobbie 
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b76113mom1tdvtmvks1h5h7botzqa70zy3id93z5kprrt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px">
+</p>
+
+## 📊 **Some Fact's**  
+
+<div align="center">  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushalsharma0702&show_icons=true&theme=radical" width="50%">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushalsharma0702&show_icons=true&theme=light&hide=contribs,issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushalsharma0702&layout=compact&theme=light)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushalsharma0702&layout=compact&theme=radical" width="50%">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalsharma0702&theme=radical" width="50%">
 
 </div>
 
 ---
 
-## 🏆 GitHub Streak Stats
+## 🤖 **AI & Chatbots Expertise**  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kushalsharma0702&theme=light)](https://git.io/streak-stats)
+🚀 **Custom AI Bots Built:**  
+- 🏥 **Medical AI Bot** – Diagnoses symptoms & suggests treatments.  
+- 💬 **GDGChitti** – A customer support chatbot powered by **Gemini API**.  
+- 📞 **Smart Assistant Bots** – Automates queries & tasks for businesses.  
 
-**Longest Streak**: 30 Days  
-**Current Streak**: 12 Days
-
----
-
-## 🗓️ Contribution Calendar
-
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Kushalsharma0702&theme=react-dark)
+🔥 **Need an AI Bot?** _Let’s talk!_ 😏  
 
 ---
 
-## 🔧 Skills & Technologies
+## 🛠 **Tech Stack & Skills**  
 
-**Languages:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+### **Languages & Tools**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+### **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 
-**Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
-**Cybersecurity:**
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-1E90FF?style=flat-square&logo=hackthebox&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F61?style=flat-square&logo=defense&logoColor=white)
+### **Cybersecurity & Ethical Hacking**  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F61?style=flat-square&logo=security&logoColor=white) ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-1E90FF?style=flat-square&logo=hackthebox&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-00A98F?style=flat-square&logo=gnu-bash&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=burp-suite&logoColor=white) 
+![Wpscan](https://img.shields.io/badge/Wpscan-25292E?style=flat-square&logo=wordpress&logoColor=white)  ![Whoami](https://img.shields.io/badge/Whoami-1E90FF?style=flat-square&logo=windows-terminal&logoColor=white) ![Wifite](https://img.shields.io/badge/Wifite-FF0000?style=flat-square&logo=wifi&logoColor=white)
+ 
 
 ---
 
-## 🌟 My Journey So Far
+ 
 
-I've always been fascinated by how things work behind the scenes in the digital world. 💻 Over time, this curiosity evolved into a deep passion for **web development** and **cybersecurity**. Here’s a snapshot of my journey:
-
-1. **Started as a Web Developer**: Building websites and landing pages, getting hands-on with **HTML, CSS, JavaScript**, and learning **React**.
-2. **Explored Cybersecurity**: Diving deep into ethical hacking, CTF challenges, and gaining certifications to strengthen my skills in securing digital assets.
-3. **Open-Source Contributions**: I believe in the power of collaboration! Contributing to meaningful projects and learning along the way. 
-4. **Continuous Learning**: The tech world never stands still, and neither do I! Always up to date with the latest tools, frameworks, and methodologies.
+### 🛠 **Specialized in:** A.I. Chatbot Development, Penetration Testing, Web Security, Ethical Hacking, and Security Research.  
 
 ---
 
-## 🎯 Focus Areas
-
-Currently, I am focused on:
-
-- **Mastering Ethical Hacking**: My mission is to contribute to building a safer digital world.
-- **Creating Real-World Projects**: Developing apps and websites that bring real value to users.
-- **Collaboration & Networking**: Building relationships with fellow developers, cybersecurity experts, and creators from around the world.
+## 🔥 **Fun Fact**  
+_"I break things for fun… and then fix them (sometimes)!"_ 😆  
 
 ---
 
-## 🌟 Projects
+## 📞 **Connect With Me!**  
 
-### [🌍 Climatecheck360](https://github.com/Kushalsharma0702/Climatecheck360)
-A personalized weather website delivering real-time updates tailored to user preferences using modern web technologies and APIs.
-
-### [🤖 RoboDoct](https://github.com/Kushalsharma0702/RoboDoct)
-A robotic system designed to provide essential medical services to underserved communities with telemedicine capabilities and health education.
-
-### [💻 Genz Connect](https://github.com/Kushalsharma0702/GenzConnect)
-A platform enhancing remote classroom experiences with features like peer-to-peer audio-video interfaces, real-time collaboration, and chat integration.
-
-### [💼 Taxify](https://github.com/Kushalsharma0702/Taxify)
-An AI-enabled platform for Chartered Accountants to streamline processes and provide strategic tax-saving solutions.
+📧 **Email:** [sharmakushal7417@gmail.com](mailto:sharmakushal7417@gmail.com)  
+🌍 **Portfolio:** [devkushal.netlify.app](https://devkushal.netlify.app/)  
+💼 **LinkedIn:** [Kushal Sharma](https://www.linkedin.com/in/kushalsharma0702)  
 
 ---
 
-## 🏅 Achievements
+🚀 **Collab? Build Something Cool? Let’s Talk!** 😎  
 
-### HackerRank Achievements:
-
-[![HackerRank Badge: Problem Solving](https://img.shields.io/badge/-Problem%20Solving-1ba94c?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sharmakushal7417)
-[![HackerRank Badge: Python](https://img.shields.io/badge/-Python-1ba94c?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sharmakushal7417)
-[![HackerRank Badge: JavaScript](https://img.shields.io/badge/-JavaScript-1ba94c?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sharmakushal7417)
-
----
-
-## 📫 Contact Me
-
-I love connecting with fellow developers, cybersecurity enthusiasts, and anyone passionate about tech!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal_Sharma-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushalsharma0702)
-[![Email](https://img.shields.io/badge/Email-aurocodeinfo@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aurocodeinfo@gmail.com)
-
----
-
-## Fun Facts about Me! 🎉
-
-- I love participating in **hackathons** and **CTF challenges**—they keep me on my toes!
-- I’m currently learning **ethical hacking** to dive deep into the world of cybersecurity.
-- I enjoy exploring new technologies like **React**, **Firebase**, and **AI**. 
-- My goal is to **create apps and projects that make a difference** in people’s lives. 🌱
-
----
-
-## 💬 Let's Connect!
-
-Feel free to reach out for **collaborations**, **project discussions**, or simply to **chat** about tech! I’m always open to learning and sharing ideas. 🌐
